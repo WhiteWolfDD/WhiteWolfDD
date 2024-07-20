@@ -1,0 +1,22 @@
+[
+  {
+    "task": "Get more experience in FastAPI",
+    "link": "https://fastapi.tiangolo.com/"
+  },
+  {
+    "task": "Explore in more detail React",
+    "link": "https://react.dev/"
+  },
+  {
+    "task": "Learn about Deno framework",
+    "link": "https://deno.com/"
+  },
+  {
+    "task": "Repeat RESTful API details",
+    "link": "https://restfulapi.net/"
+  },
+  {
+    "task": "Experiment with Next.js",
+    "link": "https://nextjs.org/"
+  }
+]
