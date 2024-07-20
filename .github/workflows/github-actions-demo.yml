@@ -4,7 +4,8 @@ on:
   push:
     paths:
       - 'todo.json'
-
+permissions:
+  contents: write
 jobs:
   update-readme:
     runs-on: ubuntu-latest
