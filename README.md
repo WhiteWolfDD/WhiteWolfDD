@@ -20,7 +20,6 @@
 
 <details> 
   <summary><h2>🛠️ My Stack</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
@@ -129,8 +128,11 @@
 
 ## 📝 TODO List
 
-<!-- START TODO LIST -->
-<!-- END TODO LIST -->
+🟡 Get more experience in FastAPI </br>
+🟡 Explore in more detail React </br>
+🟡 Repeat RESTful API details </br>
+🔴 Learn about Deno framework </br>
+🔴 Experiment with Next.js and Nuxt.js </br>
 
 <h2>Connect With Me</h2> 
 <p align="left">
