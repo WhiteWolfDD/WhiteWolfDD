@@ -128,9 +128,9 @@
 
 ## 📝 TODO List
 
+🟢 Repeat RESTful API details </br>
 🟡 Get more experience in FastAPI </br>
 🟡 Explore in more detail React </br>
-🟡 Repeat RESTful API details </br>
 🔴 Learn about Deno framework </br>
 🔴 Experiment with Next.js and Nuxt.js </br>
 
