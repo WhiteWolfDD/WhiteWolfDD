@@ -92,6 +92,5 @@
 
 <h2>Connect With Me</h2> 
 <p align="left">
-<a href="https://t.me/white_wolf_dd" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" alt="white_wolf_dd" /></a>
 <a href="https://www.linkedin.com/in/vladislav-hodzhajev-724032270/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
